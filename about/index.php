@@ -13,9 +13,11 @@
 
                   <p class="teaser">Hello, and thank you for visiting my website!</p>
 
-                  <p>I am a developer at R/GA in New York, working on Nike brand sites. My interests are in front end web development. On a daily basis I am working with JS, jQuery, HTML, CSS. I use a lot of json and XML as well.</p>
+                  <p>I am a senior front end developer at R/GA New York, currently working on NIKEiD.</p>
 
-                  <p>I do have experience with backend development, but it isn't one of my main interest, and isn't the type of development work i do day to day.</p>
+                  <p>Focus on front-end technologies such as JavaScript, Angular, jQuery, HTML5, CSS, Sass/Compass, JSON, XML, SVN/GIT, Grunt. </p>
+
+                  <p>Strong communication skills, organized, determined, and highly motivated.</p>
 
                   <div style="clear:both;">
                     <blockquote> Twenty years from now you will be more disappointed by the things that you didn’t do than by the ones you did do.  - Mark Twain </blockquote>
